@@ -1,0 +1,9 @@
+$colorfont: blue;
+$fontSize: 100px;
+$border: 1px solid black;
+
+h2{
+  color: $colorfont;
+  font-size: $fontSize;
+  border: $border;
+}
